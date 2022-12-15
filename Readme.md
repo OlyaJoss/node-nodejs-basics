@@ -1,3 +1,1 @@
-# Node.js basics
-
-## !!! Please don't submit Pull Requests to this repository !!!
+https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/nodejs-basics/assignment.md#command-line-interfacesrccli
